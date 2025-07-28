@@ -1,0 +1,6 @@
+src/images/*
+src/database/*
+!src/database/.gitkeep
+!src/images/.gitkeep
+.DS_Store
+.env
